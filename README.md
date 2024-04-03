@@ -1,4 +1,4 @@
-<h1 align="center">NWL - IA</h1>
+<h1 align="center">NLW - IA</h1>
 
 ## Sobre o Projeto
 
